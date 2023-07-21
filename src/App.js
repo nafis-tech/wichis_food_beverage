@@ -63,7 +63,7 @@ class App extends React.Component {
             <Route path='/cart' element={<CartPage />} />
             <Route path='/history' element={<HistoryPage />} />
             <Route path='/historyadmin' element={<HistoryAdminPage />} />
-            <Route path='*' element={<NotFoundPage />} />
+            {/* <Route path='*' element={<NotFoundPage />} /> */}
           </Routes>
         </div>
     )
