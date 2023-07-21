@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/wichis_food_beverage/static/css/main.0bea0af9.css",
-    "main.js": "/wichis_food_beverage/static/js/main.08779cf0.js",
+    "main.js": "/wichis_food_beverage/static/js/main.5c4afd61.js",
     "static/media/logo.png": "/wichis_food_beverage/static/media/logo.23ab5f32c5d6af1cb360.png",
     "index.html": "/wichis_food_beverage/index.html",
     "main.0bea0af9.css.map": "/wichis_food_beverage/static/css/main.0bea0af9.css.map",
-    "main.08779cf0.js.map": "/wichis_food_beverage/static/js/main.08779cf0.js.map"
+    "main.5c4afd61.js.map": "/wichis_food_beverage/static/js/main.5c4afd61.js.map"
   },
   "entrypoints": [
     "static/css/main.0bea0af9.css",
-    "static/js/main.08779cf0.js"
+    "static/js/main.5c4afd61.js"
   ]
 }
